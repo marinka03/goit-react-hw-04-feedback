@@ -1,4 +1,3 @@
-import React from "react";
 import PropTypes from 'prop-types';
 
 const Statistics = ({good, bad, neutral, total, positivePercentage}) => (
